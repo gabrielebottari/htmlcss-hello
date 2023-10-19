@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(4,19,51);
+    margin: 0;
+}
+
+div {
+    background-color: rgb(232,232,232);
+    border: 20px solid rgba(0,225,101,255);
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -160px;
+    margin-left: -160px;
+}
+
+h1 {
+    color: rgba(0,225,101,255);
+    font-size: 75px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 100px;
+}
